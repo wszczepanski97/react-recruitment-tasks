@@ -1,0 +1,6 @@
+[submodule "zadanie3"]
+	path = zadanie3
+	url = https://github.com/wszczepanski97/github-repository-researcher
+[submodule "github-repository-researcher"]
+	path = github-repository-researcher
+	url = https://github.com/wszczepanski97/github-repository-researcher
